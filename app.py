@@ -82,9 +82,3 @@ if uploaded_file is not None:
 
     st.success(f"Prediction: {predicted.item()}")
     st.info(f"Confidence: {confidence.item()*100:.2f}%")
-
-    st.subheader("Top 3 Predictions")
-    for i in range(3):
-        st.write(
-            f"{top_class[0][i].item()} → {top_prob[0][i].item()*100:.2f}%"
-        )
