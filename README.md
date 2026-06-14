@@ -119,16 +119,6 @@ streamlit run app.py
 
 ---
 
-## 🌐 Live Demo
-
-<p align="center">
-  <a href="https://digitclassificationmodel-vtqft8zyinghfkscftholz.streamlit.app/">
-    <img src="https://img.shields.io/badge/🚀%20Try%20Now-Launch%20App-blue?style=for-the-badge&logo=streamlit"/>
-  </a>
-</p>
-
----
-
 ## 📊 Highlights
 
 ✔ Deep Learning Implementation
